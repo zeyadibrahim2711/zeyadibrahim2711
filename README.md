@@ -1,71 +1,143 @@
-# Hi there, I'm Ziad Ibrahim 👋
+# 👋 Hi, I'm Ziad Ibrahim  
 
-## 🧑‍💻 About Me
-🎯 I'm a Backend-Oriented Developer specializing in .NET and structured desktop business systems.  
-💡 Passionate about building real-world workflow-based applications with clean architecture.  
-🧠 Strong focus on Business Logic, System Design, and proper Separation of Concerns.  
-🌍 Based in Egypt 🇪🇬 and continuously improving toward professional Backend Development.
+Backend Developer (.NET) focused on designing structured, database-driven systems where business logic and workflow control drive the architecture.
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-C# | C++
-
-### 🏗️ Backend & Desktop
-.NET Framework  
-Windows Forms  
-Event-Driven Programming  
-
-### 🗄️ Database
-SQL Server  
-ADO.NET  
-Database Design  
-Stored Procedures  
-
-### 🧱 Architecture & Concepts
-3-Tier Architecture (DAL / BLL / UI)  
-OOP & SOLID Principles  
-Business Rules Enforcement  
-Workflow-Based System Design  
-
-### 🛠️ Development Practices
-Input Validation  
-Exception Handling  
-File Handling  
-Debugging & Refactoring  
-Clean Code Practices  
+🏗️ Specialized in layered architecture (DAL / BLL / UI)  
+🧠 Strong focus on real-world workflow enforcement  
+🚀 Continuously improving toward scalable backend and enterprise-level systems  
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me  
 
-### 🚗 DVLD – Driving License Management System
-Full real-world license workflow simulation:
-- Application → Exams → License Issuance  
-- Status Tracking & Conditional Logic  
+Backend-oriented developer with strong foundations in OOP, data structures, and database-driven system design.  
+
+I build structured desktop business systems with a clear separation between presentation, logic, and data layers.  
+
+My focus is on:  
+- Designing maintainable layered architectures  
+- Translating real-world rules into controlled business logic  
+- Structuring applications for clarity, scalability, and long-term maintainability  
+- Writing clean, readable, and testable code  
+
+---
+
+## 🚀 Tech Stack  
+
+### 💻 Languages  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🏗️ Backend & Architecture  
+
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+- 3-Tier Architecture (DAL / BLL / UI)  
+- Separation of Concerns  
+- Business Rules Enforcement  
+- Workflow-Based System Design  
+- Event-Driven Programming  
+
+---
+
+### 🧠 Computer Science Foundations  
+
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (DSA)  
+- Problem Solving & Logical Thinking  
+
+---
+
+### 🗄️ Database  
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+- Relational Database Design  
+- Stored Procedures  
+- Query Optimization Basics  
+- Data Access Layer Implementation  
+
+---
+
+### 🛠️ Tools  
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- Debugging & Refactoring  
+- Version Control & Repository Management  
+- Code Structuring & Maintainability Practices  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🚗 DVLD – Driving License Management System  
+
+A full real-world simulation of a government license workflow system built using layered architecture.
+
+Key Features:
+- License Application → 3-Step Exams → License Issuance  
+- Status Tracking with Conditional Workflow Control  
 - Detain & Release System  
-- Role-based User Management  
-- Clean 3-Tier Architecture  
+- Role-Based User Management  
+- Strict Business Rule Enforcement  
+- Clean 3-Tier Architecture Implementation  
 
-### 🏦 Bank Management System
-Accounts, Transactions, Authentication, Business Logic Control  
-
-### 🏧 ATM System
-Secure Login, Withdraw/Deposit Operations, Validation Handling  
-
-### 🧮 Math Quiz Application
-Dynamic Question Generation, Score Tracking, Structured OOP Design  
+**Focus:** Translating complex real-world processes into controlled and maintainable backend logic.
 
 ---
 
-## 📈 Currently Improving
-.NET Backend Development  
-Clean Code & Refactoring  
-Scalable System Design  
-Transitioning toward ASP.NET Core  
+### 🏦 Bank Management System (C++ / OOP)
+
+- Client Accounts & Transactions  
+- Authentication & Access Control  
+- Deposit / Withdraw Operations  
+- Object-Oriented System Design  
+- Console-Based Application  
 
 ---
 
-Always learning. Always building. Always improving.
+### 🏧 ATM System (C++ / OOP)
+
+- Secure Authentication  
+- Balance Checking  
+- Withdraw / Deposit Operations  
+- Input Validation & Error Handling  
+- Structured OOP-Based Implementation  
+
+---
+
+### 🧮 Math Quiz Application  
+
+- Dynamic Question Generation  
+- Difficulty Levels  
+- Score Tracking  
+- Structured OOP Design  
+
+---
+
+## 📈 Currently Improving  
+
+- ASP.NET Core Backend Development  
+- Clean Code & Advanced Refactoring  
+- Scalable System Design  
+- API Development & REST Principles  
+
+---
+
+## 🤝 Open To  
+
+- Junior .NET Backend Roles  
+- Backend Internships  
+- Code Review & Technical Feedback  
+
+---
+
+⭐ Always learning. Always building. Always improving.
