@@ -1,87 +1,71 @@
-# Ziad Ibrahim
+# Hi there, I'm Ziad Ibrahim 👋
 
-Backend Developer (.NET)  
-Building structured, real-world systems with clean architecture and strong business logic.
-
----
-
-## About Me
-
-I design and build desktop-based business systems using layered architecture and proper separation of concerns.
-
-My focus is on:
-- Writing clean and maintainable business logic
-- Enforcing real-world workflow rules
-- Designing structured database-driven applications
-- Applying OOP and SOLID principles correctly
+## 🧑‍💻 About Me
+🎯 I'm a Backend-Oriented Developer specializing in .NET and structured desktop business systems.  
+💡 Passionate about building real-world workflow-based applications with clean architecture.  
+🧠 Strong focus on Business Logic, System Design, and proper Separation of Concerns.  
+🌍 Based in Egypt 🇪🇬 and continuously improving toward professional Backend Development.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 💻 Languages
+C# | C++
 
-### Backend & Desktop
-![.NET Framework](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🏗️ Backend & Desktop
+.NET Framework  
+Windows Forms  
+Event-Driven Programming  
 
-### Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 🗄️ Database
+SQL Server  
+ADO.NET  
+Database Design  
+Stored Procedures  
 
-### Architecture
+### 🧱 Architecture & Concepts
 3-Tier Architecture (DAL / BLL / UI)  
 OOP & SOLID Principles  
 Business Rules Enforcement  
-Separation of Concerns  
+Workflow-Based System Design  
+
+### 🛠️ Development Practices
+Input Validation  
+Exception Handling  
+File Handling  
+Debugging & Refactoring  
+Clean Code Practices  
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🚗 DVLD – Driving License Management System
-A full real-world workflow simulation:
-
-- License Application → Exams → Issuance
-- Status Tracking & Conditional Logic
-- Detain & Release System
-- Role-based User Management
-- Clean 3-Tier Architecture Implementation
-
-Focus: Business logic control and workflow enforcement.
-
----
+Full real-world license workflow simulation:
+- Application → Exams → License Issuance  
+- Status Tracking & Conditional Logic  
+- Detain & Release System  
+- Role-based User Management  
+- Clean 3-Tier Architecture  
 
 ### 🏦 Bank Management System
-- Client Accounts & Transactions
-- Authentication & User Control
-- Transaction Validation
-- Structured Layered Design
-
----
+Accounts, Transactions, Authentication, Business Logic Control  
 
 ### 🏧 ATM System
-- Secure Authentication
-- Withdraw / Deposit Operations
-- Input Validation & Error Handling
+Secure Login, Withdraw/Deposit Operations, Validation Handling  
+
+### 🧮 Math Quiz Application
+Dynamic Question Generation, Score Tracking, Structured OOP Design  
 
 ---
 
-## Currently Improving
-
-- .NET Backend Development
-- Clean Code & Refactoring Skills
-- Scalable System Design
-- Transitioning toward ASP.NET Core
-
----
-
-## Open To
-
-Junior .NET Backend Roles,Internships
+## 📈 Currently Improving
+.NET Backend Development  
+Clean Code & Refactoring  
+Scalable System Design  
+Transitioning toward ASP.NET Core  
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+Always learning. Always building. Always improving.
